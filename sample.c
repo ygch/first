@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <math.h>
 /*该程序的作用是验证操作符的优先级，>>的优先级小于+号*/
 int main()
 {
