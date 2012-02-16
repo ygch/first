@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//实现一个简单的链表
 typedef struct _node 
 {
   int value;
