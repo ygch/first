@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//只是想验证打印次数
 int main()
 {
     int a=1;
